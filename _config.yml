@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "PreRec/"
+baseurl: "/PreRec"
 url: "https://tangjiakai.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
