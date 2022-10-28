@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/PreRec"
+baseurl: "/PreRec_CDR"
 url: "https://tangjiakai.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -9,11 +9,11 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "Pretrain Recommendation" # used by search engines
+  description: "Pretrain Recommendation and CDR" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h> Recommendation Pretrain </h>
+     <h> Recommendation Pretrain and Cross Domain Recommendation </h>
      <p> Methods | Datasets </p>
   header_text_feature_image:
   footer_text: >
@@ -28,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "TangJiakai/PreRec"
+  github: "TangJiakai/PreRec_CDR"
   gitter:
   google_plus:
   instagram:
